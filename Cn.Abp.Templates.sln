@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{88C79B1F-761F-455D-ABEC-B64FC6EDAA24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebHost", "WebHost\WebHost.csproj", "{7C15A5CA-A76E-4DE4-ACD8-84FC828E57E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C15A5CA-A76E-4DE4-ACD8-84FC828E57E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C15A5CA-A76E-4DE4-ACD8-84FC828E57E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C15A5CA-A76E-4DE4-ACD8-84FC828E57E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C15A5CA-A76E-4DE4-ACD8-84FC828E57E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7C15A5CA-A76E-4DE4-ACD8-84FC828E57E0} = {88C79B1F-761F-455D-ABEC-B64FC6EDAA24}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CED5A04D-4CA6-47C7-A345-7DDC16193122}
+	EndGlobalSection
+EndGlobal
