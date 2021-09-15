@@ -11,9 +11,6 @@ namespace WebHost.Controllers
     [Route("[controller]")]
     public class HomeController : ControllerBase
     {
-       public Task Get()
-        {
-            return Redirect("");
-        }
+     
     }
 }
